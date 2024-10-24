@@ -1,10 +1,9 @@
 <h1 align="center">Hack WIfi Using Termux! (Requires Root)
 </h1>
-<h1 align="center">THIS TOOL MAKE BY TEAM BOT HACKER [WASIM 360]</h1>
+<h1 align="center">THIS TOOL MAKE BY TEAM BOT HACKER [SIYAM]</h1>
 <p align="center"><img src="https://i.ibb.co/K74g0SC/hulu.jpg"></p>
 
-<h1 align="center">tutorial video👇 </h1>
-https://www.facebook.com/share/v/YySXjik5GrfkM6tV/?mibextid=oFDknk
+
 
 ### Installation :
 
@@ -32,8 +31,3 @@ $ sudo python birihack.py --help
 **"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100086012142332&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasim360" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@wasim-360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wasim-360" height="30" width="40" /></a>
-</p>
